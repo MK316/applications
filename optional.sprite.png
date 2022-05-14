@@ -6,10 +6,10 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/MK316/applications/main/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/MK316/applications/main/optional.metadata.tsv",
       "sprite": {
-        "imagePath": "https://github.com/MK316/optional.sprite.png",
+        "imagePath": "https://github.com/MK316/applications/main/optional.sprite.png",
         "singleImageDim": [
           32,
           32
